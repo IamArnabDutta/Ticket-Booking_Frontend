@@ -117,39 +117,39 @@ function Navbar() {
 
             <div className={`${menuOpen ? 'block' : 'hidden'} sm:hidden`} id="mobile-menu">
                 <div className="space-y-1 px-2 pb-3 pt-2 uppercase">
-                    <Link to="/" className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white">
+                    <Link to="/" className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white">
                         Home
                     </Link>
-                    <Link to="/dashboard" className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white">
+                    <Link to="/dashboard" className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white">
                         Trains
                     </Link>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         Login
                     </Link>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         Register
                     </Link>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         Agent Login
                     </Link>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         Contact us
                     </Link>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         alerts
                     </Link>
@@ -158,13 +158,13 @@ function Navbar() {
                     </span>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         Promotions
                     </Link>
                     <Link
                         to="/"
-                        className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white"
+                        className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white"
                     >
                         More
                     </Link>
