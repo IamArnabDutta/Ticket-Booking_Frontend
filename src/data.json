@@ -1,0 +1,205 @@
+[
+    {
+        "trainName": "Express 101",
+        "trainNumber": "TR101",
+        "startingPlace": "Kolkata",
+        "destinationPlace": "Mumbai",
+        "seats": 100,
+        "fare": 1500,
+        "times": {
+            "arrival": "2024-08-13T08:00:00Z",
+            "departure": "2024-08-13T08:10:00Z"
+        },
+        "imageUrl": "https://assets.thehansindia.com/h-upload/2023/06/26/1360811-vande-bharat-express-train.webp"
+    },
+    {
+        "trainName": "Express 102",
+        "trainNumber": "TR102",
+        "startingPlace": "Delhi",
+        "destinationPlace": "Bangalore",
+        "seats": 100,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://static.toiimg.com/thumb/37328564/4808584361_91127cee8b_z.jpg?width=1200&height=900"
+    },
+    {
+        "trainName": "Express 103",
+        "trainNumber": "TR103",
+        "startingPlace": "Hyderabad",
+        "destinationPlace": "Pune",
+        "seats": 100,
+        "fare": 1200,
+        "times": {
+            "arrival": "2024-08-13T09:00:00Z",
+            "departure": "2024-08-13T09:10:00Z"
+        },
+        "imageUrl": "https://static.toiimg.com/thumb/msid-61202140,width-550,height-433/61202140.jpg"
+    },
+    {
+        "trainName": "Express 104",
+        "trainNumber": "TR104",
+        "startingPlace": "Lucknow",
+        "destinationPlace": "Delhi",
+        "seats": 100,
+        "fare": 1300,
+        "times": {
+            "arrival": "2024-08-13T07:00:00Z",
+            "departure": "2024-08-13T07:10:00Z"
+        },
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/04/21/18/56/luxury-train-6197291_1280.jpg"
+    },
+    {
+        "trainName": "Express 105",
+        "trainNumber": "TR105",
+        "startingPlace": "Mumbai",
+        "destinationPlace": "Hyderabad",
+        "seats": 100,
+        "fare": 1600,
+        "times": {
+            "arrival": "2024-08-13T15:00:00Z",
+            "departure": "2024-08-13T15:10:00Z"
+        },
+        "imageUrl": "https://m.economictimes.com/thumb/msid-108395576,width-1600,height-900,resizemode-4,imgsize-562980/vande-bharat.jpg"
+    },
+    {
+        "trainName": "Express 106",
+        "trainNumber": "TR106",
+        "startingPlace": "Kolkata",
+        "destinationPlace": "Ahmedabad",
+        "seats": 100,
+        "fare": 1700,
+        "times": {
+            "arrival": "2024-08-13T13:00:00Z",
+            "departure": "2024-08-13T13:10:00Z"
+        },
+        "imageUrl": "https://images.indianexpress.com/2023/12/Varanasi-Delhi-Vande-Bharat.jpg"
+    },
+    {
+        "trainName": "Express 107",
+        "trainNumber": "TR107",
+        "startingPlace": "Chennai",
+        "destinationPlace": "Jaipur",
+        "seats": 100,
+        "fare": 2000,
+        "times": {
+            "arrival": "2024-08-13T17:00:00Z",
+            "departure": "2024-08-13T17:10:00Z"
+        },
+        "imageUrl": "https://static.toiimg.com/thumb/37328564/4808584361_91127cee8b_z.jpg?width=1200&height=900"
+    },
+    {
+        "trainName": "Express 108",
+        "trainNumber": "TR108",
+        "startingPlace": "Delhi",
+        "destinationPlace": "Chennai",
+        "seats": 100,
+        "fare": 2200,
+        "times": {
+            "arrival": "2024-08-13T10:00:00Z",
+            "departure": "2024-08-13T10:10:00Z"
+        },
+        "imageUrl": "https://assets.thehansindia.com/h-upload/2023/06/26/1360811-vande-bharat-express-train.webp"
+    },
+    {
+        "trainName": "Express 109",
+        "trainNumber": "TR109",
+        "startingPlace": "Jaipur",
+        "destinationPlace": "Bangalore",
+        "seats": 100,
+        "fare": 2500,
+        "times": {
+            "arrival": "2024-08-13T19:00:00Z",
+            "departure": "2024-08-13T19:10:00Z"
+        },
+        "imageUrl": "https://m.economictimes.com/thumb/msid-108395576,width-1600,height-900,resizemode-4,imgsize-562980/vande-bharat.jpg"
+    },
+    {
+        "trainName": "Express 110",
+        "trainNumber": "TR110",
+        "startingPlace": "Ahmedabad",
+        "destinationPlace": "Pune",
+        "seats": 100,
+        "fare": 1900,
+        "times": {
+            "arrival": "2024-08-13T14:00:00Z",
+            "departure": "2024-08-13T14:10:00Z"
+        },
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/04/21/18/56/luxury-train-6197291_1280.jpg"
+    }, {
+        "trainName": "Express 111",
+        "trainNumber": "TR111",
+        "startingPlace": "Kolkata",
+        "destinationPlace": "Mumbai",
+        "seats": 160,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://static.toiimg.com/thumb/37328564/4808584361_91127cee8b_z.jpg?width=1200&height=900"
+    },
+    {
+        "trainName": "Express 112",
+        "trainNumber": "TR112",
+        "startingPlace": "Mumbai",
+        "destinationPlace": "Delhi",
+        "seats": 160,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://t3.ftcdn.net/jpg/05/20/79/38/360_F_520793817_P38N30h64uowEcCoVsmeDIk6vBudJg8I.jpg"
+    },  {
+        "trainName": "Express 113",
+        "trainNumber": "TR113",
+        "startingPlace": "Bangalore",
+        "destinationPlace": "Hyderabad",
+        "seats": 160,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://mumbaimirror.indiatimes.com/photo/74568365.cms"
+    },{
+        "trainName": "Express 114",
+        "trainNumber": "TR114",
+        "startingPlace": "Pune",
+        "destinationPlace": "Lucknow",
+        "seats": 160,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2020/03/21/114629-indian-railways-news-reuters.jpg?itok=TxxWR2Ne"
+    },{
+        "trainName": "Express 115",
+        "trainNumber": "TR115",
+        "startingPlace": "Lucknow",
+        "destinationPlace": "Ahmedabad",
+        "seats": 160,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://st2.indiarailinfo.com/kjfdsuiemjvcya3/0/1/2/5/2134125/0/modelrakereducedsize1809341.jpg"
+    },{
+        "trainName": "Express 116",
+        "trainNumber": "TR116",
+        "startingPlace": "Ahmedabad",
+        "destinationPlace": "Chennai",
+        "seats": 160,
+        "fare": 1800,
+        "times": {
+            "arrival": "2024-08-13T12:00:00Z",
+            "departure": "2024-08-13T12:10:00Z"
+        },
+        "imageUrl": "https://qph.cf2.quoracdn.net/main-qimg-ea457a5507e49e401be74a70a7c063fb-pjlq"
+    }
+]
