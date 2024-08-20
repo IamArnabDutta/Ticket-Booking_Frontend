@@ -153,7 +153,7 @@ function Navbar() {
                     >
                         alerts
                     </Link>
-                    <span className="block rounded-md bg-indigo-800 px-3 py-2 text-base font-medium text-white ">
+                    <span className="block rounded-md bg-indigo-900 px-3 py-2 text-base font-medium text-white ">
                         {currentDate}
                     </span>
                     <Link
